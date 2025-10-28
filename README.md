@@ -1,3 +1,3 @@
 # Micrograd from Scratch — An Educational Autograd Engine
 
-See the notebook for full code and explanations.
+A minimalist deep learning engine that builds intuition for backpropagation, inspired by Andrej Karpathy’s Micrograd lectures.
